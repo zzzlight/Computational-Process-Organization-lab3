@@ -12,7 +12,7 @@
 
   - Zhang Mingqing finish all lab3.
 
-  - Together to Complete readme.md and other parts
+
 
     
 
